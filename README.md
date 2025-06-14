@@ -25,7 +25,7 @@ Topic
 bash
 Copy
 Edit
-git clone https://github.com/your-username/flashcard-generator.git
+git clone 
 cd flashcard-generator
 2. Create Virtual Environment
 bash
